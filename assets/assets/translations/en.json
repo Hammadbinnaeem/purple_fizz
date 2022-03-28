@@ -1,0 +1,127 @@
+{
+
+  "please_enter_your_email_address":"Please enter your email address",
+  "please_enter_your_password":"Please enter your password",
+  "enter_your_email_address": "Enter Your Email Address",
+  "email_required": "Email is required",
+  "enter_valid_email": "Please enter a valid email address",
+
+  "password_required": "Password is required",
+  "password_limit": "Password should be minimum of 6 character",
+  "enter_password_capital": "Enter Password",
+  "please_re_enter_your_password":"Please re-enter your password",
+  "password_does_not_match":"Password does not match",
+  "confirm_password_capital": "Confirm Password",
+  "confirm_password": "Confirm password",
+  "enter_your_password": "Enter your password",
+  "change_your_password": "Change your default password",
+  "enter_old_and_new_password": "Enter Old Password and New Password",
+   "your_password_has_been_updated_successfully":"Your password has been updated successfully.",
+  "enter_old_Password": "Enter your old password",
+  "enter_new_Password": "Enter your new password",
+  "password_change_message": "Your password has been changed successfully",
+  "password_change_link_message": "Password Changing link sent to your email address kindly verify your account",
+  "limit_required": "Limit required",
+  "password_should_include_1_number": "Password should include at least 1 number",
+  "password_should_1_special_character": "Password should include 1 special character",
+  "old_password_required": "Old password is required",
+  "old_password_consists_minimum_6_character": "Old password should consists of minimum 6 character",
+  "otp_is_required": "OTP is required",
+  "old_password_should_include_1_number": "Old password should include at least 1 number",
+  "old_password_should_include_1_special_char": "Old password should include 1 special character",
+  "confirm_password_is_required": "Confirm password is required",
+  "Password_didn't_match": "Password didn\\'t match",
+  "password_hint": "must include letters, numbers and symbol",
+  "new_password_hint": "must include upper case, numbers and symbols",
+
+
+
+
+
+
+  "all_ingredients": "All Ingredients",
+  "all_recipes": "All  Recipes",
+  "welcome_to_login": "Welcome to Login",
+  "please_fill_email_and_password_to_login_your_app_account": "Please fill E-mail & password to login your app account.",
+  "email": "E-mail",
+  "password": "Password",
+  "remember_me": "Remember me",
+  "enter_password": "Enter password",
+  "forgot_password": "Forgot password ?",
+  "login_now": "Login Now",
+  "home": "Home",
+  "ingredients": "Ingredients",
+  "recipes": "Recipes",
+  "recipe_calculator": "Recipe Calculator",
+  "add_categories": "Add Categories",
+  "my_shopping_list": "My shopping List",
+  "logout": "Logout",
+  "version": "version ",
+  "welcome_back": "Welcome Back! ",
+  "search_here": "Search here",
+  "add_ingredients": "Add Ingredients",
+  "add_recipe": "Add Recipe",
+  "recently_added": "Recently Added",
+  "ingredient_name": "Ingredient Name",
+  "measuring_unit": "Measuring Unit",
+  "description": "Description",
+  "write_here": "Write here...",
+  "save": "Save",
+  "upload_images": "Upload Images",
+  "enter_ingredient": "Enter ingredient",
+  "recipe_name": "Recipe Name",
+  "recipe_category": "Recipe category",
+  "persons": "Persons",
+  "select_ingredients": "Select Ingredients",
+  "add": "ADD",
+  "add_person": "Add Persons",
+  "yes": "Yes",
+  "proceed":"Proceed",
+  "search_according_to_your_need":"Search According to your need.",
+  "add_categories_&_measuring_units":"Add Categories & Measuring units",
+  "clear_cart":"Clear Cart",
+  "active":"Active",
+  "block":"Block",
+  "show":"Show",
+  "entries":"Entries",
+  "categories":"Categories",
+  "search":"Search",
+  "10":"10",
+  "add_measuring_unit":"Add Measuring Unit",
+  "add_category":"Add Category",
+  "enter_name":"Enter name",
+  "name":"name",
+
+  "add_measuring_units":"Add Measuring Units",
+  "short_name":"Short Name",
+  "enter_short_name":"Enter short name",
+  "set_value":"Set Value",
+  "kg":"kg",
+  "old_password":"Old Password",
+  "enter_old_password":"Enter old password",
+  "new_password":"New password",
+  "enter_new_password":"Enter new password",
+  "first_name":"First name",
+  "enter_first_name":"Enter first name",
+  "last_name":"Last Name",
+  "enter_last_name":"Enter last name",
+  "enter_email":"Enter email",
+  "edit_profile":"Edit Profile",
+  "basic_detail":"Basic Detail",
+  "change_password":"Change Password",
+
+
+
+  "my_account":"MY ACCOUNT"
+
+
+
+
+
+
+
+
+
+
+
+}
