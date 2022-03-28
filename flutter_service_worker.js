@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "968fcf605a598f7f403ccc75446a16e8",
+  "assets/AssetManifest.json": "ff30eb45a2e7b4537ae5c3f50391d75b",
 "assets/assets/fonts/BebasNeue.ttf": "54413459a5adf3f82686db50595cba5a",
 "assets/assets/images/avatar.png": "65ca7030c51e129a3567bd1b9a6b775e",
 "assets/assets/images/bottle_outline_image.png": "a533075f785c730ff81e9e6978436700",
@@ -16,6 +16,7 @@ const RESOURCES = {
 "assets/assets/images/ingredients_icon.png": "f8e891f7bc58ce40f0e4fd083beb4048",
 "assets/assets/images/logout.png": "02419bb395c3bf801efd141ade3274f9",
 "assets/assets/images/menu_icon.png": "bd267c64217fd716c5bf31586ffe5efe",
+"assets/assets/images/pf_main_logo.png": "3f8fea152da15187c226102c6abb84c4",
 "assets/assets/images/purple_fizz_logo.png": "769b4bd6474145496bc64335c4ed59c9",
 "assets/assets/images/recipe_cal_icon.png": "5424a9f02385bed19fb799e1d16f9d8c",
 "assets/assets/images/recipe_icon.png": "2c51b50acd4f5b46dd362fe148893585",
@@ -32,9 +33,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7bed071e50534e274275c09444a4a019",
-"/": "7bed071e50534e274275c09444a4a019",
-"main.dart.js": "883287b7db286434ccf7e945c6a429a7",
+"index.html": "5ff60d2a7e27ed6fe9f1b7a78bb480b9",
+"/": "5ff60d2a7e27ed6fe9f1b7a78bb480b9",
+"main.dart.js": "b694f00d53d0b9915b99cc93148567f2",
 "manifest.json": "eae80415404a70e54e329b608056c49b",
 "version.json": "cc3dc05be9d4243cc14d7b6c7e034111"
 };
