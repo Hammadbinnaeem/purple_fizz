@@ -1,6 +1,6 @@
 {
-    "name": "purple_fizz",
-    "short_name": "purple_fizz",
+    "name": "Purple Fizz",
+    "short_name": "Purple Fizz",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
