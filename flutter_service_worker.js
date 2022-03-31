@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ff30eb45a2e7b4537ae5c3f50391d75b",
+  "assets/AssetManifest.json": "ae2965754034121f405ec73da646a46b",
 "assets/assets/fonts/BebasNeue.ttf": "54413459a5adf3f82686db50595cba5a",
 "assets/assets/images/avatar.png": "65ca7030c51e129a3567bd1b9a6b775e",
 "assets/assets/images/bottle_outline_image.png": "a533075f785c730ff81e9e6978436700",
@@ -21,6 +21,7 @@ const RESOURCES = {
 "assets/assets/images/recipe_cal_icon.png": "5424a9f02385bed19fb799e1d16f9d8c",
 "assets/assets/images/recipe_icon.png": "2c51b50acd4f5b46dd362fe148893585",
 "assets/assets/images/shopping_icon.png": "0fb13ac9695ba59b164bf51c21d4cfbd",
+"assets/assets/images/sort.png": "d3c20c93fa8651fd8a07ae7fbdd38e9e",
 "assets/assets/images/toggle.png": "ed6ce00b48dbcca7927ee9ab65adacd9",
 "assets/assets/images/user_icon.png": "4671f2d1c8d097033d043777460fa013",
 "assets/assets/images/user_icon_filled.png": "087125a4ae76ea67e41cceff7f64dbf8",
@@ -37,9 +38,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "8accb4bfad61d1af803786add0e59844",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "74eb87e68adf4d69ddf26908c9452950",
-"/": "74eb87e68adf4d69ddf26908c9452950",
-"main.dart.js": "cc90d8880ac523ca8527f47d4b40f78f",
+"index.html": "1f8dc880efc9d48f75ff5451ad119bd2",
+"/": "1f8dc880efc9d48f75ff5451ad119bd2",
+"main.dart.js": "578257f3483c49b64741c82902a29b0c",
 "manifest.json": "eea368b6f7e39add243a75b1aa23b934",
 "version.json": "cc3dc05be9d4243cc14d7b6c7e034111"
 };
