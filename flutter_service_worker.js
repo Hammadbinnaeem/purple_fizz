@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ae2965754034121f405ec73da646a46b",
+  "assets/AssetManifest.json": "7bff8cb4be9f988c66fa2454ed40722c",
 "assets/assets/fonts/BebasNeue.ttf": "54413459a5adf3f82686db50595cba5a",
 "assets/assets/images/avatar.png": "65ca7030c51e129a3567bd1b9a6b775e",
 "assets/assets/images/bottle_outline_image.png": "a533075f785c730ff81e9e6978436700",
+"assets/assets/images/camera_bg.png": "69bd693d6203440491c89f61eac319b4",
 "assets/assets/images/categories_icon.png": "83b81d8915921fd7d55445122d3c74a4",
 "assets/assets/images/cheers_outline_image.png": "1a6c3fa1d157409c4e43345251773675",
 "assets/assets/images/dummy_image.png": "3422c63b142d42bd93d3e5b7e10caf36",
@@ -17,6 +18,7 @@ const RESOURCES = {
 "assets/assets/images/logout.png": "02419bb395c3bf801efd141ade3274f9",
 "assets/assets/images/menu_icon.png": "bd267c64217fd716c5bf31586ffe5efe",
 "assets/assets/images/pf_main_logo.png": "3f8fea152da15187c226102c6abb84c4",
+"assets/assets/images/photo_camera.png": "3e3c28e77288b7ba320accfba4c6aaa2",
 "assets/assets/images/purple_fizz_logo.png": "769b4bd6474145496bc64335c4ed59c9",
 "assets/assets/images/recipe_cal_icon.png": "5424a9f02385bed19fb799e1d16f9d8c",
 "assets/assets/images/recipe_icon.png": "2c51b50acd4f5b46dd362fe148893585",
@@ -25,7 +27,7 @@ const RESOURCES = {
 "assets/assets/images/toggle.png": "ed6ce00b48dbcca7927ee9ab65adacd9",
 "assets/assets/images/user_icon.png": "4671f2d1c8d097033d043777460fa013",
 "assets/assets/images/user_icon_filled.png": "087125a4ae76ea67e41cceff7f64dbf8",
-"assets/assets/translations/en.json": "c749999b2d525d542f50a8f657d3f0ac",
+"assets/assets/translations/en.json": "347f5c7962eb8e08dead68f89b1fc261",
 "assets/FontManifest.json": "2925f17b036f844d8e42ff3efb302520",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "465723d0a5cb6d6a97ca0e052503d7b2",
@@ -38,9 +40,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "8accb4bfad61d1af803786add0e59844",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1f8dc880efc9d48f75ff5451ad119bd2",
-"/": "1f8dc880efc9d48f75ff5451ad119bd2",
-"main.dart.js": "578257f3483c49b64741c82902a29b0c",
+"index.html": "39013475409b8a36d3574afd835986b1",
+"/": "39013475409b8a36d3574afd835986b1",
+"main.dart.js": "eb390b8ac19151c5d1733f368748a329",
 "manifest.json": "eea368b6f7e39add243a75b1aa23b934",
 "version.json": "cc3dc05be9d4243cc14d7b6c7e034111"
 };
